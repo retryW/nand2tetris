@@ -12,5 +12,5 @@
 * [x] Or8Way
 * [x] Mux4Way16
 * [x] Mux8Way16
-* [ ] DMux4Way
-* [ ] DMux8Way
+* [x] DMux4Way
+* [x] DMux8Way
